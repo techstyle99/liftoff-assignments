@@ -20,4 +20,4 @@ Project Board: [https://trello.com/b/YHBcnb23/venntime-project-board](https://tr
 
 ### Project Repo Link
 
-[https://github.com/MaxraySavage/VennTime](https://github.com/MaxraySavage/VennTime)
+GitHub: [https://github.com/MaxraySavage/VennTime](https://github.com/MaxraySavage/VennTime)

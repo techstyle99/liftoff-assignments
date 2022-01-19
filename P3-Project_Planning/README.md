@@ -7,17 +7,16 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-[Wireframes](https://github.com/techstyle99/liftoff-assignments/blob/master/P3-Project_Planning/VennTime-wireframes.pdf)
-The linked PDF includes four wireframes: 
-- Desktop: User event scheduling page
-- Desktop: User name registration page
-- Mobile: User event scheduling page
-- Mobile: User name registration page
+This link includes the following [Wireframes](https://github.com/techstyle99/liftoff-assignments/blob/master/P3-Project_Planning/VennTime-wireframes.pdf): 
+- Desktop - add attendee page
+- Desktop - view event page
+- Mobile - add attendee page
+- Mobile - view event page 
 
 ### Project Tracker
 User Stories: [https://trello.com/b/3A0JuPRC/user-stories](https://trello.com/b/3A0JuPRC/user-stories)<br/>
 Project Board: [https://trello.com/b/YHBcnb23/venntime-project-board](https://trello.com/b/YHBcnb23/venntime-project-board)
-![image](https://github.com/techstyle99/liftoff-assignments/blob/master/P3-Project_Planning/VennTime-userstories.pdf)
+
 
 ### Project Repo Link
 

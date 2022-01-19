@@ -15,9 +15,9 @@ The linked PDF includes four wireframes:
 - Mobile: User name registration page
 
 ### Project Tracker
-User Stories: [https://trello.com/b/3A0JuPRC/user-stories](https://trello.com/b/3A0JuPRC/user-stories)
+User Stories: [https://trello.com/b/3A0JuPRC/user-stories](https://trello.com/b/3A0JuPRC/user-stories)<br/>
 Project Board: [https://trello.com/b/YHBcnb23/venntime-project-board](https://trello.com/b/YHBcnb23/venntime-project-board)
-![](https://github.com/techstyle99/liftoff-assignments/blob/master/P3-Project_Planning/VennTime-userstories.pdf)
+![image](https://github.com/techstyle99/liftoff-assignments/blob/master/P3-Project_Planning/VennTime-userstories.pdf)
 
 ### Project Repo Link
 

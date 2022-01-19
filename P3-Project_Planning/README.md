@@ -7,13 +7,17 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+[Wireframes](https://github.com/techstyle99/liftoff-assignments/blob/master/P3-Project_Planning/VennTime-wireframes.pdf)
+The linked PDF includes four wireframes: 
+- Desktop: User event scheduling page
+- Desktop: User name registration page
+- Mobile: User event scheduling page
+- Mobile: User name registration page
 
 ### Project Tracker
-
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+Project Tracker: [user stories](https://trello.com/b/3A0JuPRC/user-stories) & [project board](https://trello.com/b/YHBcnb23/venntime-project-board)
+![](https://github.com/techstyle99/liftoff-assignments/blob/master/P3-Project_Planning/VennTime-userstories.pdf)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[GitHub Project](https://github.com/MaxraySavage/VennTime)

@@ -15,6 +15,7 @@ This link includes the following [Wireframes](https://github.com/techstyle99/lif
 - view event page on mobile
 
 ### Project Tracker
+Story Board: [https://miro.com/app/board/uXjVOUfTJiA=/](https://miro.com/app/board/uXjVOUfTJiA=/)
 User Stories: [https://trello.com/b/3A0JuPRC/user-stories](https://trello.com/b/3A0JuPRC/user-stories)<br/>
 Project Board: [https://trello.com/b/YHBcnb23/venntime-project-board](https://trello.com/b/YHBcnb23/venntime-project-board)
 

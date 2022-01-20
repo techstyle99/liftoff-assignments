@@ -8,8 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 This link includes the following [Wireframes](https://github.com/techstyle99/liftoff-assignments/blob/master/P3-Project_Planning/VennTime-wireframes.pdf): 
-- add attendee page on desktop
-- view event page on desktop
+- add attendee page 
+- view event page 
+- create event page 
 - add attendee page on mobile
 - view event page on mobile
 
